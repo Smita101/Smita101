@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate data enthusiast and problem solve
 
 ## 📫 Let's Connect
 - **Email:** [23f1001749@ds.study.iitm.ac.in](mailto:23f1001749@ds.study.iitm.ac.in), [smita.dhadhal@gmail.com](mailto:smita.dhadhal@gmail.com)
-- **LinkedIn:** [Smita Dhadhal](www.linkedin.com/in/smitadhadhal)
+- **LinkedIn:** [Smita Dhadhal](https://www.linkedin.com/in/smitadhadhal)
 
 ---
 
