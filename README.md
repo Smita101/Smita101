@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate data enthusiast and problem solve
   - **Machine Learning & AI:** Scikit-learn, TensorFlow, NLP techniques
   - **Tools & Platforms:** Git, Google Colab, Jupyter Notebook, Selenium
 - 💼 **Interests:** Solving real-world problems through data-driven insights and creating visually compelling dashboards.
-- 🌱 **Currently Learning:** Advanced NLP techniques, Power BI, and Quantum Computing.
+- 🌱 **Currently Learning:** Advanced ML Techniques, Business Analytics.
 - 💬 **Ask Me About:** Data modeling, Python, and Power BI.
 
 ---
