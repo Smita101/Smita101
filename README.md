@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate data enthusiast and problem solve
   - Diploma in Electronics & Communications from A.V.Parekh Technical Institute
   - Diploma in Data Science from IIT Madras
   - Diploma in Programming from IIT Madras
-  - Currently pursuing BS in Data Science and Applications from IIT Madras (Current CGPA: 9.1, Expected Graduation: End of 2025)
+  - Currently pursuing BS in Data Science and Applications from IIT Madras (Current CGPA: 9.17, Expected Graduation: End of 2025)
 - 📊 **Skills:**
   - **Programming Languages:** Python, SQL, Java, JavaScript, HTML, CSS
   - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
